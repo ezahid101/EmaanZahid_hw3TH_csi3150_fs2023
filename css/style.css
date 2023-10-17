@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+* {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  /* background-image: url("../img/image2.jpg"); */
+  background-image: url("../img/Lake.jpg");
+  background-repeat: no-repeat;
+  background-size: 1350px 710px;
+  text-align: center;
+  text-decoration: yellow;
+  font-size: 36px;
+  padding: 100px;
+  margin-bottom: 0px;
+}
+
+.trip {
+  background-image: url("../img/orange.jpg");
+  background-repeat: no-repeat;
+  background-size: 1350px 750px;
+  font-size: 25px;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 70px;
+  margin-bottom: 0px;
+}
+
+.images {
+  text-align: center;
+  font-size: 20px;
+  background-image: url("../img/flowers.jpg");
+  background-repeat: no-repeat;
+  background-size: 1350px 600px;
+  margin-bottom: 0px;
+  align-items: center;
+}
+
+.image-container {
+  text-align: center;
+  font-size: 20px;
+  background-image: url("../img/flowers.jpg");
+  background-repeat: no-repeat;
+  background-size: 1350px 600px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.facts {
+  background-image: url(../img/orangeTrees.jpg.png);
+  background-repeat: no-repeat;
+  background-size: 1350px 280px;
+  padding: 15px;
+  margin-bottom: 0px;
+  align-items: center;
+  text-align: center;
+}
+
+.costumer {
+  text-align: center;
+  background-image: url("../img/Lake.jpg");
+  background-repeat: no-repeat;
+  background-size: 1350px 500px;
+  padding: 15px;
+  margin-bottom: 0px;
+}
+
+.moreImages {
+  text-align: center;
+  background-image: url("../img/kayak.jpg");
+  background-repeat: no-repeat;
+  background-size: 1350px 300px;
+  margin-bottom: 0px;
+  align-items: center;
+}
+
+.loginContainer {
+  background-image: url("../img/flowers.jpg");
+  background-repeat: no-repeat;
+  background-size: 1350px 600px;
+  font-size: 25px;
+  text-align: left;
+  display: flex;
+  justify-content: space-between;
+  align-items: left;
+  padding: 25px;
+  margin-bottom: 0px;
+}
